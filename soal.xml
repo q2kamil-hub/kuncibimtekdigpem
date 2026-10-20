@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soal>
+
+  <item>
+    <pertanyaan>Sebuah sekolah menggunakan Interactive Flat Panel (IFP) untuk menyimpan banyak video pembelajaran, aplikasi edukasi, dan file presentasi interaktif. Setelah beberapa bulan, guru mulai kesulitan menyimpan file baru karena ruang penyimpanan hampir penuh. Berdasarkan spesifikasi IFP, komponen yang paling berpengaruh terhadap kondisi tersebut adalah..</pertanyaan>
+    <jawaban>Kapasitas penyimpanan</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru ingin menampilkan video pembelajaran di satu sisi layar dan catatan materi di sisi lainnya agar siswa dapat melihat keduanya secara bersamaan pada IFP. Fitur yang paling tepat digunakan adalah ..</pertanyaan>
+    <jawaban>Split Screen</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat akan menampilkan simulasi praktikum Fisika, laptop guru tidak dapat mendeteksi IFP untuk screen mirroring, padahal kedua perangkat sudah terhubung ke jaringan WiFi yang sama. Langkah troubleshooting lanjutan yang paling tepat adalah..</pertanyaan>
+    <jawaban>Memastikan aplikasi penerima siaran (receiver) pada IFP sudah dibuka dan aktif</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Layar IFP merespon normal di bagian tengah, tetapi tulisan sering terputus dan tidak terdeteksi saat menulis di area tepi bawah layar. Penyebab yang paling mungkin dari gangguan ini adalah ..</pertanyaan>
+    <jawaban>Debu atau benda asing menghalangi sensor inframerah di bingkai (bezel) bawah layar</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Tim sarpras menemukan data inventaris tidak sesuai kondisi aktual karena perangkat berpindah ruang dan terpasang secara permanen tanpa pembaruan data. Langkah perbaikan paling tepat berdasarkan prinsip inventarisasi adalah</pertanyaan>
+    <jawaban>Menyesuaikan data dengan hasil cek fisik dan penanggung jawab ruang</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Guru mampu mengoperasikan perangkat, namun belum optimal mengintegrasikannya dalam pembelajaran. Kegiatan pengembangan paling sesuai untuk kondisi tersebut adalah..</pertanyaan>
+    <jawaban>Pelatihan berbasis praktik pembuatan perangkat ajar</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Hasil evaluasi menunjukkan keaktifan siswa meningkat, namun belum merata antar kelas. Tujuan utama evaluasi penggunaan alat digital adalah..</pertanyaan>
+    <jawaban>Menilai dampak terhadap proses pembelajaran</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam kegiatan pembelajaran, guru mengajak peserta didik berdiskusi tentang pencemaran lingkungan yang terjadi di sekitar sekolah. Peserta didik diminta menyampaikan pendapat dan solusi sederhana sesuai pengalaman mereka. Kegiatan tersebut menunjukkan pembelajaran yang...</pertanyaan>
+    <jawaban>Bermakna dan kontekstual</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru matematika menggunakan aplikasi grafik digital untuk membantu peserta didik memahami fungsi linear melalui diskusi dan pemecahan masalah kelompok. Penerapan TPACK pada kegiatan tersebut ditunjukkan oleh..</pertanyaan>
+    <jawaban>Integrasi teknologi, strategi pembelajaran, dan materi secara terpadu</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Media digital yang memungkinkan murid memberikan respons dan berinteraksi langsung dengan materi pembelajaran disebut...</pertanyaan>
+    <jawaban>Media Pembelajaran Interaktif</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Penggunaan Media Pembelajaran Interaktif (MPI) yang efektif dapat dilihat dari beberapa indikator keberhasilan dalam proses pembelajaran. Berikut ini yang bukan termasuk indikator keberhasilan penggunaan MPI adalah..</pertanyaan>
+    <jawaban>Menurunnya keterlibatan guru dalam aktivitas mengajar secara keseluruhan</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Layanan Sumber Belajar pada platform Ruang Murid menyediakan berbagai tipe materi digital untuk mendukung pembelajaran peserta didik. Berikut ini yang bukan termasuk tipe materi pada layanan tersebut adalah..</pertanyaan>
+    <jawaban>Papan Informasi</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru menggunakan KA untuk membantu pembelajaran. Dalam praktiknya: guru meminta siswa mencari jawaban menggunakan KA tanpa arahan, hasil dari KA langsung digunakan tanpa verifikasi, beberapa siswa menyalin jawaban tanpa memahami, guru tidak membahas potensi kesalahan dari KA. Berdasarkan kasus tersebut, risiko utama dalam penggunaan KA adalah..</pertanyaan>
+    <jawaban>Halusinasi, plagiarisme, dan penurunan kemampuan berpikir kritis</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru merancang game pembelajaran berbasis KA generatif dengan prompt berikut: "Buat game listrik statis untuk siswa SMP menggunakan PID." Hasil yang diperoleh: game tidak memiliki aturan yang jelas, siswa hanya menonton tanpa berinteraksi, tidak ada umpan balik terhadap jawaban siswa. Perbaikan yang paling tepat untuk dilakukan adalah…</pertanyaan>
+    <jawaban>Menambahkan tujuan pembelajaran, alur permainan, interaksi siswa, dan mekanisme umpan balik</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru menggunakan KA generatif untuk membuat media pembelajaran tentang “listrik statis” yang ditampilkan melalui PID. Saat digunakan di kelas, sebagian besar siswa hanya memperhatikan tampilan tanpa banyak keterlibatan aktif, dan hanya beberapa siswa yang merespons pertanyaan guru. Perbaikan desain media yang paling tepat adalah..</pertanyaan>
+    <jawaban>Menambahkan aktivitas interaksi yang melibatkan seluruh siswa</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam pembelajaran berbasis digital, guru sering menggunakan LMS untuk membantu proses belajar mengajar secara daring. Kepanjangan dari LMS adalah..</pertanyaan>
+    <jawaban>Learning Management System</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Berikut ini adalah beberapa kegiatan yang dapat dilakukan dalam LMS untuk mendukung pembelajaran digital. Manakah yang bukan termasuk fungsi LMS..</pertanyaan>
+    <jawaban>Mencatat kehadiran di buku absensi manual</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Setelah pengguna memilih menu “Start Free Moodle Site”, langkah berikutnya yang harus dilakukan adalah..</pertanyaan>
+    <jawaban>Klik tombol Get Started Free</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat memilih paket gratis pada layanan LMS berbasis cloud, pengguna memperoleh kapasitas penyimpanan sebesar..</pertanyaan>
+    <jawaban>1 GB</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Program penguatan kapasitas digital pendidikan dirancang dengan skema pengimbasan berjenjang agar dampak pelatihan dapat menjangkau guru di berbagai daerah secara luas. Berdasarkan target nasional yang telah ditetapkan, jumlah guru yang diproyeksikan menerima pengimbasan program tersebut adalah..</pertanyaan>
+    <jawaban>sekitar 30.840 guru hasil pengimbasan dari fasilitator dan narasumber terlatih</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam kegiatan diskusi kelompok di kelas, guru meminta beberapa siswa menuliskan jawaban secara bersamaan pada layar IFP tanpa harus bergantian. Fitur IFP yang paling mendukung kegiatan tersebut adalah ..</pertanyaan>
+    <jawaban>Multi-touch</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat pelaksanaan pembelajaran digital, guru ingin menghubungkan Interactive Flat Panel (IFP) ke jaringan internet sekolah menggunakan kabel agar koneksi lebih stabil dibanding Wi-Fi. Namun, guru salah memasukkan kabel jaringan ke port HDMI sehingga internet tidak terhubung. Port yang seharusnya digunakan agar IFP dapat terhubung ke jaringan internet kabel adalah ...</pertanyaan>
+    <jawaban>LAN</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru membuat materi pada papan tulis digital IFP saat pelatihan. Materi tersebut akan digunakan kembali dan masih perlu diedit pada pertemuan berikutnya. Namun, ada beberapa cara penyimpanan yang dipilih peserta sehingga sebagian file tidak dapat diedit kembali di IFP. Agar file tetap bisa dibuka dan diedit kembali pada IFP, tindakan yang paling tepat adalah ..</pertanyaan>
+    <jawaban>Menyimpan file dalam format HWB</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Alat yang paling direkomendasikan untuk membersihkan debu pada layar Interactive Flat Panel (IFP) agar permukaannya tidak tergores atau rusak adalah ..</pertanyaan>
+    <jawaban>Kain microfiber lembut dan kering</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat digunakan, layar Interactive Flat Panel (IFP) tiba-tiba merespon sendiri seolah disentuh (ghost touch), padahal tidak ada interaksi fisik. Langkah diagnosis awal yang paling tepat adalah ..</pertanyaan>
+    <jawaban>Membersihkan permukaan layar dari kotoran/cairan lalu me-restart perangkat</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Sebuah SMA menggunakan 20 unit tablet untuk pembelajaran yang dipakai bergantian setiap hari. Lokasi penyimpanan harian yang paling aman dan efektif adalah ..</pertanyaan>
+    <jawaban>Lemari khusus terkunci di ruang guru</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Tata tertib penggunaan perangkat telah disusun, namun sebagian guru belum memahami batasan instalasi aplikasi. Fungsi utama kebijakan penggunaan perangkat digital adalah</pertanyaan>
+    <jawaban>Mengarahkan penggunaan sesuai fungsi dan etika</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Perangkat kecil bernilai tinggi disimpan di ruang terbuka tanpa pencatatan keluar-masuk. Praktik tersebut berisiko karena</pertanyaan>
+    <jawaban>Menyulitkan kontrol keamanan dan tanggung jawab</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru IPA mengajarkan materi perubahan iklim dengan menggunakan video simulasi interaktif. Setelah itu, peserta didik bekerja dalam kelompok untuk menganalisis dampak perubahan iklim di lingkungan sekitar dan mempresentasikan solusi menggunakan aplikasi presentasi digital. Pada akhir pembelajaran, guru memberikan umpan balik melalui platform belajar daring. Penerapan TPACK yang paling tepat pada skenario tersebut adalah..</pertanyaan>
+    <jawaban>guru mengintegrasikan teknologi, strategi pembelajaran kolaboratif, dan materi perubahan iklim untuk mencapai tujuan pembelajaran</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru IPA memahami materi tentang sistem pernapasan manusia dengan sangat baik, tetapi masih mengalami kesulitan memilih metode pembelajaran yang sesuai dan belum mampu memanfaatkan teknologi dalam proses belajar. Kompetensi yang paling menonjol pada guru tersebut adalah...</pertanyaan>
+    <jawaban>Content Knowledge (CK)</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Pada pembelajaran IPA, peserta didik terlebih dahulu mempelajari konsep daur air melalui video dan diskusi kelas. Setelah itu, mereka membuat model sederhana daur air menggunakan bahan di sekitar rumah. Kegiatan membuat model tersebut termasuk tahapan...</pertanyaan>
+    <jawaban>Mengaplikasi</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam penerapan Media Pembelajaran Interaktif (MPI), guru diharapkan memanfaatkan media yang mampu membantu peserta didik membangun pemahaman secara aktif melalui simulasi, eksplorasi, dan umpan balik langsung. Berikut ini yang bukan merupakan peran utama Media Pembelajaran Interaktif adalah..</pertanyaan>
+    <jawaban>Menampilkan materi agar terlihat lebih menarik secara visual semata</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Platform Ruang Murid Kemendikdasmen dikembangkan sebagai ekosistem pembelajaran digital yang menyediakan berbagai layanan untuk mendukung kebutuhan belajar peserta didik secara mandiri maupun terstruktur. Namun, tidak seluruh layanan pembelajaran digital termasuk ke dalam fitur utama platform tersebut. Layanan berikut yang tidak termasuk dalam platform Ruang Murid Kemendikdasmen adalah..</pertanyaan>
+    <jawaban>Rumah Pendidikan sebagai pusat layanan pembelajaran digital terpadu</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Perhatikan prompt berikut: "Anda adalah guru IPA SMP kelas 7. Buat 3 soal tentang ekosistem dalam bentuk pilihan ganda. Sajikan dalam tabel berisi soal, pilihan jawaban, dan kunci. Soal akan digunakan untuk siswa yang masih kesulitan memahami konsep ekosistem." Komponen format pada prompt tersebut ditunjukkan oleh bagian…</pertanyaan>
+    <jawaban>Sajikan dalam tabel berisi soal, pilihan jawaban, dan kunci</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam modul dijelaskan bahwa Kecerdasan Artifisial (KA) adalah kemampuan sistem komputer untuk melakukan tugas yang biasanya membutuhkan kecerdasan manusia, seperti memahami bahasa, mengenali gambar, belajar dari pengalaman, dan mengambil keputusan. Seorang guru menggunakan aplikasi berikut dalam pembelajaran: Aplikasi A menampilkan materi dalam bentuk PDF; Aplikasi B memberikan soal yang sama untuk semua siswa; Aplikasi C memberikan rekomendasi materi berbeda sesuai hasil belajar siswa; Aplikasi D menampilkan video pembelajaran tanpa interaksi; Aplikasi E menyimpan nilai siswa dalam tabel. Berdasarkan definisi KA dalam modul, aplikasi yang paling mencerminkan penggunaan KA adalah..</pertanyaan>
+    <jawaban>Aplikasi C</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Penggunaan LMS memberikan banyak manfaat bagi guru dalam melaksanakan pembelajaran. Salah satu manfaat utama penggunaan LMS adalah..</pertanyaan>
+    <jawaban>Mempermudah pengelolaan materi, tugas, dan penilaian</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Setelah peserta mengumpulkan tugas melalui LMS, guru dapat memberikan skor dan komentar secara langsung melalui fitur tertentu. Fitur yang dimaksud adalah..</pertanyaan>
+    <jawaban>Penilaian</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru ingin menggunakan platform pembelajaran yang dapat terhubung langsung dengan email sekolah serta layanan penyimpanan cloud untuk memudahkan distribusi tugas dan materi. Platform yang paling sesuai adalah..</pertanyaan>
+    <jawaban>Google Classroom</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat berada di halaman utama layanan LMS cloud, pengguna perlu memilih menu tertentu untuk mulai membuat LMS gratis. Menu tersebut adalah..</pertanyaan>
+    <jawaban>Start Free Moodle Site</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Sebelum mulai membuat LMS sederhana berbasis cloud, langkah pertama yang harus dilakukan pengguna adalah..</pertanyaan>
+    <jawaban>Membuka situs layanan LMS cloud</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru ingin menggunakan paket gratis LMS cloud untuk kelas daringnya. Jika layanan tersebut menyediakan kapasitas hingga 50 pengguna, maka jumlah peserta maksimal yang dapat terdaftar adalah..</pertanyaan>
+    <jawaban>50 pengguna</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam skema penguatan kapasitas berjenjang, Level 1 (Pusat) memiliki peran utama dalam mendukung keberhasilan implementasi program di tingkat daerah dan sekolah. Fokus utama pada level ini adalah..</pertanyaan>
+    <jawaban>Membentuk fasilitator atau narasumber nasional untuk mendukung pelatihan berjenjang</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Sebuah sekolah mengembangkan sistem pembelajaran digital yang terintegrasi dengan Learning Management System (LMS), Artificial Intelligence (AI), dan analitik data pembelajaran untuk mendukung pengalaman belajar yang adaptif dan terpersonalisasi. Fokus pengembangan tersebut merupakan karakteristik utama dari..</pertanyaan>
+    <jawaban>Tier 2 yang menekankan pengembangan ekosistem platform digital dan integrasi teknologi pembelajaran</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Sebuah SMP telah memiliki perangkat digital dan akses Learning Management System (LMS), tetapi guru masih jarang memanfaatkan LMS dalam pembelajaran. Kepala sekolah kemudian mengadakan pelatihan berkelanjutan agar guru mampu menggunakan LMS secara aktif di kelas. Berdasarkan kondisi tersebut, tujuan utama program optimalisasi LMS yang paling tepat adalah..</pertanyaan>
+    <jawaban>Membentuk ekosistem pembelajaran digital yang mandiri dan berkelanjutan</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam implementasi arsitektur penguatan kapasitas berjenjang pada transformasi pendidikan digital, lembaga yang memiliki fungsi strategis dalam melakukan fasilitasi, pemantauan, serta memastikan keberlangsungan program penguatan kapasitas di tingkat daerah adalah..</pertanyaan>
+    <jawaban>BPMP/BBPMP yang bertanggung jawab melakukan pendampingan dan monitoring implementasi program</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Berikut ini yang bukan merupakan indikator keberhasilan penggunaan Media Pembelajaran Interaktif (MPI) adalah..</pertanyaan>
+    <jawaban>Penurunan aktivitas mengajar guru</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru ingin memperbaiki penggunaan KA di kelas setelah menemukan banyak kesalahan informasi dan siswa menjadi pasif. Ia mempertimbangkan beberapa tindakan: (1) Mengarahkan siswa untuk mengecek kebenaran hasil KA; (2) Melarang penggunaan KA sepenuhnya di kelas; (3) Mengajarkan cara menggunakan KA secara bijak; (4) Membiarkan siswa menggunakan KA tanpa bimbingan agar mandiri. Keputusan yang paling tepat dan sesuai dengan prinsip resiko penggunaan KA adalah..</pertanyaan>
+    <jawaban>(1) dan (3)</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru merancang media pembelajaran interaktif berbasis PID menggunakan KA generatif untuk topik “ekosistem”. Ia mempertimbangkan dua pendekatan: Desain A berfokus pada penyajian materi dan contoh yang dijelaskan oleh guru; Desain B berfokus pada aktivitas siswa memilih tindakan dan melihat dampaknya melalui media. Evaluasi yang paling tepat terhadap kedua desain tersebut adalah..</pertanyaan>
+    <jawaban>Desain B lebih efektif karena melibatkan eksplorasi siswa</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Pemanfaatan perangkat meningkatkan literasi dan partisipasi siswa, tetapi memerlukan penguatan kebijakan dan pendampingan. Kesimpulan paling tepat dari temuan tersebut adalah ..</pertanyaan>
+    <jawaban>Dampak positif memerlukan pengelolaan berkelanjutan</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Guru IPS menggunakan video interaktif tentang kegiatan ekonomi masyarakat. Setelah menonton, peserta didik diminta berdiskusi dan menyusun solusi terhadap permasalahan ekonomi di lingkungan sekitar. Penerapan TPACK pada kegiatan tersebut ditunjukkan oleh..</pertanyaan>
+    <jawaban>keterpaduan teknologi, pendekatan, dan isi materi dalam satu kegiatan belajar</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Keputusan pengadaan sering tidak tepat karena data inventaris tidak mencerminkan kondisi nyata perangkat. Dampak paling logis dari kondisi tersebut terhadap manajemen sekolah adalah..</pertanyaan>
+    <jawaban>Analisis kebutuhan sarana menjadi kurang akurat</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Guru ingin menjalankan beberapa aplikasi pembelajaran secara bersamaan pada IFP, seperti whiteboard digital, browser, dan aplikasi video conference tanpa mengalami lag berlebihan. Spesifikasi yang paling memengaruhi kelancaran kinerja tersebut adalah ..</pertanyaan>
+    <jawaban>Processor dan memory</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Seorang guru menggunakan media digital yang memungkinkan peserta didik menjawab kuis, memilih menu, dan memperoleh umpan balik secara langsung selama pembelajaran berlangsung. Media tersebut termasuk jenis..</pertanyaan>
+    <jawaban>Media pembelajaran interaktif</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat kegiatan diskusi kelompok, guru ingin membuka aplikasi browser untuk mencari informasi sambil tetap menampilkan aplikasi papan tulis digital pada layar yang sama di IFP. Langkah yang paling tepat dilakukan adalah ..</pertanyaan>
+    <jawaban>Mengaktifkan fitur split screen melalui recent apps</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat menyusun program kerja untuk mendukung penerapan Kurikulum Merdeka, seorang wakil kepala sekolah bidang kurikulum mengusulkan agar seluruh unit Interactive Flat Panel (IFP) dan laptop bantuan dibersihkan serta dicek fungsi sistem operasinya secara rutin setiap akhir bulan, meskipun belum ada laporan kerusakan dari guru yang mengajar. Berdasarkan prinsip dasar manajemen perawatan perangkat, pendekatan yang diusulkan dalam skenario tersebut termasuk dalam kategori ..</pertanyaan>
+    <jawaban>Preventive Maintenance (Perawatan Preventif)</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Dalam praktik pembuatan LMS sederhana, paket gratis yang tersedia memiliki batas penyimpanan untuk file materi pembelajaran. Kapasitas tersebut adalah..</pertanyaan>
+    <jawaban>5 GB</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Sebuah sekolah menggunakan sistem digital untuk mengunggah materi, memberikan tugas, dan memantau aktivitas belajar peserta. Sistem tersebut disebut..</pertanyaan>
+    <jawaban>Learning Management System</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Urutan yang tepat dalam memulai pembuatan LMS sederhana dengan Moodle adalah..</pertanyaan>
+    <jawaban>Buka situs – Start Free Moodle Site – Get Started Free</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>IFP akan dipasang di laboratorium yang padat aktivitas dan mobilitas siswanya tinggi. Standar instalasi dan keamanan fisik yang paling tepat adalah ..</pertanyaan>
+    <jawaban>Menempatkan IFP di luar jalur lalu lalang dan memasang kunci pengaman pada stand.</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Kemampuan guru memanfaatkan perangkat tidak merata dan berdampak pada kualitas pembelajaran. Strategi peningkatan kapasitas paling efektif untuk pemerataan adalah..</pertanyaan>
+    <jawaban>Workshop disertai pendampingan di kelas</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Perhatikan dua prompt berikut: Prompt A: "Buat game IPA untuk siswa SMP." Prompt B: "Buat game pembelajaran listrik statis untuk siswa SMP kelas 9 dengan durasi 20 menit, dimainkan dalam 2 kelompok, menggunakan PID. Game harus memiliki 3 level tantangan, aturan permainan yang jelas, interaksi aktif siswa di depan kelas, serta umpan balik langsung untuk setiap jawaban." Evaluasi yang paling tepat terhadap kedua prompt tersebut adalah..</pertanyaan>
+    <jawaban>Prompt B lebih efektif karena memuat komponen lengkap perancangan game pembelajaran</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Perbedaan utama antara penggunaan LMS dengan pembelajaran konvensional di kelas terletak pada cara pengelolaan pembelajaran. Pernyataan yang paling tepat adalah..</pertanyaan>
+    <jawaban>LMS mendukung pengelolaan pembelajaran secara digital dan terintegrasi</jawaban>
+  </item>
+
+  <item>
+    <pertanyaan>Saat pembelajaran berlangsung, guru memberikan permainan kuis interaktif sehingga peserta didik aktif dan antusias mengikuti pelajaran. Suasana belajar seperti ini mencerminkan prinsip Pembelajaran Mendalam yang..</pertanyaan>
+    <jawaban>Menggembirakan dan interaktif</jawaban>
+  </item>
+
+</soal>

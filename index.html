@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bank Soal & Jawaban Bimtek Digital Pembelajaran</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="desain.css">
+</head>
+<body>
+
+  <header>
+    <h1>Bank Soal & Jawaban Bimtek Digital Pembelajaran</h1>
+    <p class="subjudul">Paste sebagian teks soal untuk mencari soal beserta jawabannya.</p>
+  </header>
+
+  <main>
+    <!-- Kolom pencarian tanpa tombol -->
+    <div class="kotak-cari">
+      <input
+        type="text"
+        id="inputCari"
+        placeholder="Ketik atau paste sebagian teks soal (min. 3 karakter)..."
+        autocomplete="off"
+        autofocus
+      >
+    </div>
+
+    <!-- Info jumlah hasil -->
+    <div id="infoHasil" class="info-hasil"></div>
+
+    <!-- Area hasil pencarian -->
+    <div id="areaHasil" class="area-hasil"></div>
+  </main>
+
+  <footer>
+    <p>Data soal &amp; jawaban tersimpan di <code>soal.xml</code></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

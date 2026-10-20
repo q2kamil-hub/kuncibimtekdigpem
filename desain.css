@@ -1,0 +1,136 @@
+/* ===== Reset & dasar ===== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f6f8;
+  color: #222;
+  line-height: 1.5;
+}
+
+/* ===== Header ===== */
+header {
+  background: #1f4e79;
+  color: #fff;
+  padding: 24px 16px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0 0 6px;
+  font-size: 24px;
+}
+
+header .subjudul {
+  margin: 0;
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+/* ===== Main ===== */
+main {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+}
+
+/* ===== Kolom pencarian ===== */
+.kotak-cari {
+  margin-bottom: 12px;
+}
+
+#inputCari {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 16px;
+  border: 2px solid #cfd6e0;
+  border-radius: 8px;
+  outline: none;
+  background: #fff;
+  transition: border-color 0.15s ease;
+}
+
+#inputCari:focus {
+  border-color: #1f4e79;
+}
+
+/* ===== Info hasil ===== */
+.info-hasil {
+  font-size: 13px;
+  color: #666;
+  min-height: 20px;
+  margin-bottom: 12px;
+}
+
+/* ===== Area hasil ===== */
+.area-hasil {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ===== Kartu soal ===== */
+.kartu {
+  background: #fff;
+  border: 1px solid #e0e4ea;
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+.kartu .pertanyaan {
+  font-size: 15px;
+  margin: 0 0 10px;
+}
+
+.kartu .jawaban {
+  font-size: 15px;
+  font-weight: bold;
+  color: #1f4e79;
+  margin: 0;
+}
+
+.kartu .label-jawaban {
+  font-weight: bold;
+  color: #1f4e79;
+}
+
+/* ===== Pesan kosong / status ===== */
+.pesan {
+  color: #888;
+  font-size: 14px;
+  font-style: italic;
+  padding: 8px 0;
+}
+
+/* ===== Footer ===== */
+footer {
+  text-align: center;
+  font-size: 12px;
+  color: #888;
+  padding: 16px;
+}
+
+footer code {
+  background: #eceff3;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* ===== Responsif ===== */
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 20px;
+  }
+
+  #inputCari {
+    font-size: 15px;
+    padding: 10px 12px;
+  }
+
+  .kartu {
+    padding: 12px;
+  }
+}
